@@ -1,2 +1,2 @@
 # ansible-config-mgt
-Ansible Configuration
+Ansible_configuration

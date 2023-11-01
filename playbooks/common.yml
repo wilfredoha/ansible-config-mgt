@@ -41,4 +41,4 @@
         
     - name: set timezone
       timezone:
-        name: /America/Colombia
+        name: America/Montevideo
